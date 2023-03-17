@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7b5abd-87d6-4afa-bc2e-5c91ac36bea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FreeCodeCamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayLisst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrayss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormattedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
+    <list default="true" id="3a7b5abd-87d6-4afa-bc2e-5c91ac36bea1" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/JDBCpractise/Connectivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCpractise/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCpractise/JDBCDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCpractise/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCpractise/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializationPractise/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializationPractise/Deserialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializationPractise/SerializationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FreeCodeCamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,52 +43,86 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oditas/Downloads/mysql-connector-java-8.0.28.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMaps">
-    <configuration name="ArrayLisst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayLisst" />
+  <component name="RunManager" selected="Application.Switch">
+    <configuration name="Deserialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SerializationPractise.Deserialization" />
       <module name="FreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SerializationPractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays" />
+    <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCpractise.JDBCDemo" />
       <module name="FreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBCpractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrayss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayss" />
+    <configuration name="JDBCDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCpractise.JDBCDemo2" />
       <module name="FreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBCpractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FormattedString" />
+    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SerializationPractise.SerializationDemo" />
       <module name="FreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SerializationPractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCpractise.Switch" />
       <module name="FreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBCpractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMaps" />
-        <item itemvalue="Application.ArrayLisst" />
-        <item itemvalue="Application.Arrayss" />
-        <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.FormattedString" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.JDBCDemo2" />
+        <item itemvalue="Application.JDBCDemo" />
+        <item itemvalue="Application.Deserialization" />
+        <item itemvalue="Application.SerializationDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +135,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676609089435</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1676633084211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676633084211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
